@@ -1,6 +1,6 @@
 #  Data-Visualization-PowerBi
 
-In the healthcare environment, Emergency Rooms are extremely dynamic, and leadership needs to make fast decisions to ensure patient safety and service quality. However, in this project, the hospital was relying on multiple static reports and spreadsheets to track ER performance. These reports were fragmented and updated infrequently, which made it difficult for decision-makers to clearly understand patient flow, waiting times, and satisfaction trends in real time.
+In the healthcare environment, Emergency Rooms are extremely dynamic, and leadership needs to make fast decisions to ensure patient safety and service quality. However, the hospital was relying on multiple static reports and spreadsheets to track ER performance. These reports were fragmented and updated infrequently, which made it difficult for decision-makers to clearly understand patient flow, waiting times, and satisfaction trends in real time.
 Because of this, leadership struggled to anticipate peak hours, identify staffing gaps, and pinpoint which departments were contributing most to patient delays. 
  
 I designed a solution that consolidated ER visit data, wait times, patient satisfaction scores, and demographic information into one centralized view. By using time-based and demographic analysis, this can enable leadership to quickly identify the busiest days and hours, high-impact patient segments, and departments with longer referral wait times.
