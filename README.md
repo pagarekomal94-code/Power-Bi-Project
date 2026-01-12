@@ -1,4 +1,4 @@
-#  Data-Visuaization-PowerBi
+#  Data-Visualization-PowerBi
 
 In the healthcare environment, Emergency Rooms are extremely dynamic, and leadership needs to make fast decisions to ensure patient safety and service quality. However, in this project, the hospital was relying on multiple static reports and spreadsheets to track ER performance. These reports were fragmented and updated infrequently, which made it difficult for decision-makers to clearly understand patient flow, waiting times, and satisfaction trends in real time.
 Because of this, leadership struggled to anticipate peak hours, identify staffing gaps, and pinpoint which departments were contributing most to patient delays. 
